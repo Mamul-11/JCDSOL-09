@@ -1,2 +1,6 @@
 # JCDSOL-09
-Tugas Purwadhika
+Tugas untuk bootcamp Purwadhika
+
+# identitas
+Nama : Mochammad Itmamul Wafa
+Id : JCDSOL-009-050
